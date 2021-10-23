@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DenyList>
+    <word>dummy</word>
+    <word>main</word>
+    <word>WHERE</word>
+    <word>WHOM</word>
+    <word>WHAT</word>
+</DenyList>
